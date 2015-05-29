@@ -1,0 +1,9 @@
+Building Twelve
+
+See doc/readme-qt.rst for instructions on building twelveQT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Twelve.
+
+See doc/build-*.txt for instructions on building Twelved,
+the intended-for-services, no-graphical-interface, reference
+implementation of Twelve.
